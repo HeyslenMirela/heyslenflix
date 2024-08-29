@@ -1,0 +1,117 @@
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+
+}
+
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(93, 151, 226);
+    font-family: "Beau Rivage", cursive;
+}
+ 
+.chamada {
+    background: rgb(11 11 15);
+    padding-bottom: 30px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 41px;
+    font-family: "Matemasie", system-ui;
+}
+
+p {
+    font-size: 25px;
+}
+
+img{
+    height: 420px;
+    opacity: 0.8;
+}
+
+img:hover {
+    opacity: 1.0;
+    border: 2px solid white;
+}
+
+.cat-music {
+    display: flex;
+    overflow: auto;
+    gap: 15px;
+}
+
+.msc {
+    display: flex;
+    overflow: auto;
+    gap: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+}
+
+.msc2 {
+    display: flex;
+    overflow: auto;
+    gap: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+}
+
+.msc3 {
+    display: flex;
+    overflow: auto;
+    gap: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+}
+
+.msc4 {
+    display: flex;
+    overflow: auto;
+    gap: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+}
+
+.msc5 {
+    display: flex;
+    overflow: auto;
+    gap: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+}
+
+.msc6 {
+    display: flex;
+    overflow: auto;
+    gap: 15px;
+    padding-bottom: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+}
+
+.categoria h2 {
+    color: rgb(93, 151, 226);
+    font-size: 30px;
+}
